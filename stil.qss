@@ -1,0 +1,4 @@
+QPushButton{background-color: #3e7fca; font: bold 13px sans-serif; color: white;}
+QLabel{font: bold 13px sans-serif;}
+QLineEdit{font: 13px sans-serif;}
+QGroupBox{background-color: white}
